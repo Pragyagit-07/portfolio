@@ -17,6 +17,12 @@ projects = [
     
     },
     {
+      title: 'AI TEAM PRODUCTIVITY PLATFORM',
+      description: 'AI Team Productivity Platform can be used for companies to communicate their employee and discuss their work and manage their team work and you have personal dashboard as well that shows your work.',
+      tech: ['React', 'Node.js', 'HTML', 'TailwindCss', 'Socket.io', 'OPENAI', 'FIGMA', 'MYSQL', 'SEQUELIZE','VERCEL','Render' ],
+      github: 'https://github.com/Pragyagit-07/AI-Team-Productivity-Platform',
+    },  
+    {
       title: 'Task Manager',
       description: 'A full stack task management system that is designed for small teams to help manage their tasks efficiently. It includes essential functionalities such as user authentication, task management(CRUD) and more.',
       tech: ['Next.js', 'React', 'Node.js', 'React Hook Form', 'Zustand', 'Tailwind CSS','MongoDB','Cors','Vercel','Render'],

@@ -9,13 +9,14 @@ import { CommonModule } from '@angular/common';
 })
 export class SkillsComponent {
 skills: string[] = [
-  'Java',
+    'Java',
     'Angular',
     'React',
     'Next.js',
     'Node.js',
-    'PHP',
-    'SQL',
+    'Docker',
+    'MYSQL',
+    'PHPMyAdmin',
     'Firebase',
     'TypeScript',
     'JavaScript',
@@ -23,6 +24,7 @@ skills: string[] = [
     'Tailwind.css',
     'CSS / SCSS',
     'MongoDB',
+    'Figma',
     'Git & GitHub'
   ];
 }
