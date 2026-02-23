@@ -16,6 +16,14 @@ projects = [
       github: 'https://github.com/Pragyagit-07/Clinic--Management--System',
     
     },
+
+       {
+      title: 'Landing Web Page',
+      description: 'A Full Stack Web Page, that shows network market and digital market web page',
+      tech: ['React',  'HTML', 'TailwindCSS', 'JavaScript','Vercel'],
+      github: 'https://github.com/Pragyagit-07/landing-page',
+    
+    },
     {
       title: 'AI TEAM PRODUCTIVITY PLATFORM',
       description: 'AI Team Productivity Platform can be used for companies to communicate their employee and discuss their work and manage their team work and you have personal dashboard as well that shows your work.',
